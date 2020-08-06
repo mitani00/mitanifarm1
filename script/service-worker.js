@@ -1,4 +1,4 @@
-'use strict';
+use strict;
 
 const CACHE_NAME = 'cache-v2';
 const urlsToCache = [
